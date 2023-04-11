@@ -1,1 +1,1 @@
-# L-gica-de-programa-o-com-Python
+### Repositório destinado para os meus estudos de python
