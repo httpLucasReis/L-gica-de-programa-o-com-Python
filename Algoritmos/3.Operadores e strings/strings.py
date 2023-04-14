@@ -6,6 +6,7 @@ print(texto.upper()) # Caixa alta
 print(texto.capitalize()) #Captaliza a string
 
 ''' Output
+
 manoelEstaFeliz
 MANOEL
 Manoel
